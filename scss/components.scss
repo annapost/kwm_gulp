@@ -1,0 +1,19 @@
+table {
+    border: none;
+    thead tr {
+        border-top-color: #F0B9AF;
+    }
+    tbody tr:last-child td {
+        border-bottom-color: #e84142;
+    }
+}
+
+//@media only screen and (max-width: 840px) {
+//    table {
+//        margin-bottom: 0;
+//        overflow: hidden;
+//        overflow-x: scroll;
+//        display: block;
+//        white-space: nowrap;
+//    }
+//}

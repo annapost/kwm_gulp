@@ -1,0 +1,43 @@
+#nav-wrapper:before,
+.widget-title,
+.post-meta,
+#footer-bottom {
+    background-color: #666666;
+}
+
+.footer-text p {
+    color: #ffffff;
+}
+
+.footer-social {
+    border-bottom: 1px solid #ffffff;
+}
+
+.desk-top-search a:hover, .mobile-top-search a:hover,
+#nav-wrapper .menu li a:hover {
+    color: #e84142;
+}
+
+a {
+    color: darken(#e84142, 20%);
+}
+
+//#nav-wrapper:before, .widget-title, .post-meta, #footer-bottom {
+//    background-color: $lll-taube;
+//    color: $lll-darkgray;
+//}
+body {
+    input, select, textarea {
+        width: auto;
+    }
+    .footer-social a i, .footer-social a {
+        color: #fff;
+    }
+    .footer-social a:hover, .footer-social a:hover i {
+        color: #e84142;
+    }
+    .archive-box {
+        background-color: #AAB9CD;
+    }
+}
+

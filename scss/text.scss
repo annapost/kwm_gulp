@@ -1,0 +1,25 @@
+.entry-title {
+    font-family: "Montserrat", "Avenir Next", sans-serif;
+}
+
+body{
+    background-color: #aaaaaa;
+}
+
+h1{
+    color: darksalmon;
+}
+
+.post-header h1, .post-header h2 a {
+    color: #F0B9AF;
+}
+
+.post-header .cat a, .short-header .cat a {
+    color: #666666;
+}
+
+.button {
+    background: darken(#F0B9AF, 5%);
+    padding: .5em 1em;
+    color: #ffffff;
+}
